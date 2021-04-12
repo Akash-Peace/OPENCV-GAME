@@ -6,11 +6,11 @@
     <a href="https://docs.python.org/3/library/intro.html"><strong>A Python Library</strong></a>
     <br />
     <br />
-    <a href="#installation">Installation</a>Installation</a>
+    <a href="#installation">Installation</a>
     ·
-    <a href="https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/issues">Report Bug</a>
+    <a href="https://github.com/Akash-Peace/OPENCV-GAME/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/issues">Request Feature</a>
+    <a href="https://github.com/Akash-Peace/OPENCV-GAME/issues">Request Feature</a>
   </p>
 </p>
 
@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Boring Jump project objective is to make a game by manipulating the pixels with [OpenCV](https://opencv.org/). [Numpy](https://numpy.org/) plays the role of creating the whole pixel value. As mentioned, I decided to present this project as a python library, particularly using the [PyPI](https://pypi.org/). [MIT](https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/blob/main/LICENSE) licenses this project and it is free to use, fork, modify and distribute. If you like this project, give a _star_ and follow me.
+Boring Jump project objective is to make a game by manipulating the pixels with [OpenCV](https://opencv.org/). [Numpy](https://numpy.org/) plays the role of creating the whole pixel value. As mentioned, I decided to present this project as a python library, particularly using the [PyPI](https://pypi.org/). [MIT](https://github.com/Akash-Peace/OPENCV-GAME/blob/main/LICENSE) licenses this project and it is free to use, fork, modify and distribute. If you like this project, give a _star_ and follow me.
 
 
 ## Built With
@@ -72,13 +72,13 @@ Usage of this project is to initiate a playable game just by manipulating the pi
 
 ## Screenshots
 
-View [Screenshots](https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/tree/main/Screenshots) here.
+View [Screenshots](https://github.com/Akash-Peace/OPENCV-GAME/tree/main/screenshot) here.
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/OPENCV-GAME/blob/main/LICENSE) for more information.
 
 
 ## My System Spec
