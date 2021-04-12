@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: boringjump
+Version: 0.0.1
+Summary: Basic jumping game made with opencv.
+Home-page: https://github.com/Akash-Peace
+Author: Akash.A
+Author-email: akashcse2000@gmail.com
+License: MIT
+Description: ## boringjump
+        
+        boringjump is a basic jumping game made with opencv.
+        
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
